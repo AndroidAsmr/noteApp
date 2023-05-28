@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">noteApp</string>
+    <string name="search">Search ...</string>
+    <string name="filter">Filter</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="categories">Categories</string>
+    <string name="priority">Priority</string>
+    <string name="save">Save</string>
+</resources>
